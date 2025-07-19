@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.6.1"
+  },
+  "name": "design-bot",
+  "version": "1.0.0",
+  "description": "Ersteller vom Order Bot System:\r https://discord.gg/Dk8XAeCTMs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
